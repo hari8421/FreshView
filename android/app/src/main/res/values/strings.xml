@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wax Trax</string>
+    <string name="title_activity_main">Wax Trax</string>
+    <string name="package_name">com.waxtrax.deck</string>
+    <string name="custom_url_scheme">com.waxtrax.deck</string>
+</resources>
